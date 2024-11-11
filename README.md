@@ -1,6 +1,16 @@
+# Repository for Deconvolution of CeD Epithelial layer project
+
+**Project:** Gene expression and eQTL analysis reflect the heterogeneity in the inflammatory status of the duodenal epithelial lining in coeliac disease <br><br>
+**Author:** Aarón D. Ramírez-Sánchez<br>
+**PI:** Iris Jonkers<br>
+Department of Genetics, University Medical Center Groningen, Netherlands<br>
+
+
+This repository contains the scripts used for raw data processing, data preprocessing, and downstream analysis.
+
 This file describes the pipeline followed for the Epithelial CeD project.
 
-Preparations:
+## Preparations:
 
 00_Formatting_metadata.R: Creating a metadata file with the info necessary for downstream analysis and a file of reference to change sample names with new nomitation.
 
