@@ -1,5 +1,3 @@
-# Repository for Deconvolution of CeD Epithelial layer project
-
 **Project:** Gene expression and eQTL analysis reflect the heterogeneity in the inflammatory status of the duodenal epithelial lining in coeliac disease <br><br>
 **Author:** Aarón D. Ramírez-Sánchez<br>
 **PI:** Iris Jonkers<br>
